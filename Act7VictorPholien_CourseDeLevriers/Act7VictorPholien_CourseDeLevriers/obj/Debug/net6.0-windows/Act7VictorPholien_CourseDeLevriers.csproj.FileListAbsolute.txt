@@ -1,0 +1,4 @@
+C:\Users\180229\Desktop\Act7VictorPholien_CourseDeLevriers\Act7VictorPholien_CourseDeLevriers\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\180229\Desktop\Act7VictorPholien_CourseDeLevriers\Act7VictorPholien_CourseDeLevriers\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\180229\Desktop\Act7VictorPholien_CourseDeLevriers\Act7VictorPholien_CourseDeLevriers\obj\Debug\net6.0-windows\Act7VictorPholien_CourseDeLevriers_MarkupCompile.cache
+C:\Users\180229\Desktop\Act7VictorPholien_CourseDeLevriers\Act7VictorPholien_CourseDeLevriers\obj\Debug\net6.0-windows\Act7VictorPholien_CourseDeLevriers_MarkupCompile.lref

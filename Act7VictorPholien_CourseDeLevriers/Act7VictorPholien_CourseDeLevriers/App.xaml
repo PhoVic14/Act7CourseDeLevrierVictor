@@ -1,0 +1,9 @@
+﻿<Application x:Class="Act7VictorPholien_CourseDeLevriers.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Act7VictorPholien_CourseDeLevriers"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
